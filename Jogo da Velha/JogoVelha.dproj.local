@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/12 17:57:12.000.294,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/18 19:15:06.000.695,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/24 15:24:49.000.251,=C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/24 15:25:33.000.200,C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\André Luiz\Desktop\Jogo da Velha\uJogoVelha.pas</Transaction>
+    <Transaction>2017/09/24 15:25:33.000.200,C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\André Luiz\Desktop\Jogo da Velha\uJogoVelha.dfm</Transaction>
+    <Transaction>2017/09/24 15:25:41.000.371,C:\Users\André Luiz\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\André Luiz\Desktop\Jogo da Velha\JogoVelha.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
